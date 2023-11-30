@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Maskeed</h1>
 <h3 align="center">A passionate full-stack developer that loves to learn new things!</h3> <br>
 
-<h3> - 🔭 I’m currently working on **FiveM / Websites** </h3>
-
-<h3> - 🌱 I’m currently learning **JavaScript / VueJS / React** </h3>
-
 <p align="left">
 </p>
 </br>
